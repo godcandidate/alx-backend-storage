@@ -4,7 +4,7 @@
 
 def schools_by_topic(mongo_collection, topic):
     """
-    Used an aggregate to find docsx
+    Using an aggregate to find docs
     :param mongo_collection: Pymongo connection
     :param topic: The topic to search
     :return: The list of school that having the same topics
