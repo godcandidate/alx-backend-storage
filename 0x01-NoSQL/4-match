@@ -1,2 +1,3 @@
-// A script that List all documents in the collection school where name = HOlberton School
+// A script that List all documents in the school collection where name = HOlberton School
+
 db.school.find({ "name" : "Holberton school" })
