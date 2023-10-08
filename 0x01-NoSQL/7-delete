@@ -1,4 +1,4 @@
-// A script that adds a new attribute to a document in the collection school
+// A script that deletes a document in the school collection
 db.school.deleteMany(
 	{ name:"Holberton school" }
 )
