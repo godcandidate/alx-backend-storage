@@ -1,4 +1,5 @@
-//A responsive Script that inserts a Doc in the Collection school
+//A s cript that inserts a Doc in the school collection
+
 db.school.insert(
 	{
 		name:"Holberton school"
