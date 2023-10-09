@@ -85,3 +85,6 @@ A project introduction to NoSQL with MongoDB
 `12-log_stats.py`
 
 - a Python script that provides some stats about Nginx logs stored in MongoDB
+
+## Main files
+- Main functions for some python scripts
